@@ -1,0 +1,7 @@
+myslqdb module
+==============
+
+.. automodule:: myslqdb
+    :members:
+    :undoc-members:
+    :show-inheritance:
